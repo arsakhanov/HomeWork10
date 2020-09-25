@@ -13,7 +13,7 @@ public class StartClass {
      * метод принимает на вход файл и строит из него путь для classloader
      * и запускает метод doWork из класса MyClass
      *
-     * @param file
+     * @param file файл, который должен загрузить класслодер
      * @throws ClassNotFoundException
      * @throws NoSuchMethodException
      * @throws IllegalAccessException
